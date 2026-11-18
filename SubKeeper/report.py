@@ -51,3 +51,6 @@ def cal_percent (category_price) :
         category_percent[category] = category_price[category] / total
 
     return category_percent
+
+
+print(cal_percent)
