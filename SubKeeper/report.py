@@ -53,6 +53,4 @@ def cal_percent (category_price) :
     return category_percent
 
 
-
-
-print("test")
+print(cal_percent)
